@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(209, 160, 160);
+    border: 2px solid tomato;
+}
+h1 {
+    color: rgb(104, 74, 18);
+    font-family: verdana;
+    text-align: center;
+    background-color:rgb(149, 93, 167);
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+.floatRight{
+    float:right;
+    margin-left:50px}
+
+section{
+    font-family: verdana;
+    text-align: center;
+}
